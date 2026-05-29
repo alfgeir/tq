@@ -1,0 +1,1 @@
+[{"x":1,"name":"アークメイジ","equipment":"staff,crystal.dbr,amulet,blackpearl.dbr,pythia'sclasp.dbr","properties":[{"augmentMasteryName1":{"name":"アース・マスタリー を +2","tag":"tagSkillName098"}}],"levelRequirement":25},{"x":1,"name":"アークメイジ","equipment":"staff","properties":[{"characterAttackSpeedModifier":"+15% 攻撃速度","offensiveElementalModifier":"+20% エレメンタルダメージ"}],"levelRequirement":46}]

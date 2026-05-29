@@ -1,0 +1,1 @@
+[{"x":1,"name":"神圣的","equipment":"crystal.dbr,jade.dbr,amulet,blackpearl.dbr,pythia'sclasp.dbr","properties":[{"augmentAllLevel":"+1 到所有技能"}],"levelRequirement":25},{"x":1,"name":"神圣的","equipment":"headmelee,headmage","properties":[{"augmentAllLevel":"+1 到所有技能","characterLifeRegen":"每秒+1.0点生命恢复","defensiveLife":"50% 活力伤害抵抗"}],"levelRequirement":15}]

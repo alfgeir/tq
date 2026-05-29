@@ -1,0 +1,1 @@
+[{"x":1,"name":"奥杜","properties":[{"characterAttackSpeedModifier":"+5% 攻击速度","defensivePhysical":"2% 物理伤害抗性","defensivePierce":"35% 穿刺抵抗","skillProjectileSpeedModifier":"+25% 加快投射速度"},{"characterAttackSpeedModifier":"+10% 攻击速度","defensivePhysical":"5% 物理伤害抗性","defensivePierce":"35% 穿刺抵抗","offensivePercentCurrentLife":"8% 减少敌人生命值","skillProjectileSpeedModifier":"+75% 加快投射速度"}]}]

@@ -1,0 +1,1 @@
+[{"x":4,"name":"Серкет","equipment":"spear,staff,bow,shield,club,sword,axe","properties":[{"characterIntelligenceModifier":"+8% интеллекта","offensiveConvert":"10.0% шанс на 8.0 секунд(ы) контроля над разумом","offensiveManaDrain":"30% уменьшение энергии (50% от сожённой энергии наносит урон)","offensiveSlowPoisonModifier":"+40% урона от яда"}],"levelRequirement":60}]

@@ -1,0 +1,1 @@
+[{"x":1,"name":"무자비한","equipment":"club,spear,sword,bow,roh,axe","properties":[{"offensivePhysicalModifier":"+40% 물리 데미지","skillProjectileSpeedModifier":"55% 발사체의 속도 증가"},{"characterOffensiveAbility":"+55 공격 능력","offensivePhysicalModifier":"+40% 물리 데미지"}],"levelRequirement":35}]

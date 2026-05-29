@@ -1,0 +1,1 @@
+[{"x":1,"name":"アイスクリスタル","properties":[{"characterLifeRegen":"+3.0 毎秒回復するヘルス","characterManaRegen":"+3.0 毎秒回復するエナジー","offensiveFreeze":"5.0% の確率で2.0 ~ 3.0 秒間 凍結"},{"characterLifeRegen":"+5.0 毎秒回復するヘルス","characterManaRegen":"+5.0 毎秒回復するエナジー","offensiveFreeze":"10.0% の確率で2.0 ~ 3.0 秒間 凍結"}]}]

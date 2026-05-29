@@ -1,0 +1,1 @@
+[{"x":3,"name":"白垩纪背甲","properties":[{"characterLifeRegen":"每秒+10.0点生命恢复"},{"characterLifeRegen":"每秒+20.0点生命恢复","characterLifeRegenModifier":"+50% 生命恢复速度"},{"characterLifeRegen":"每秒+30.0点生命恢复","characterLifeRegenModifier":"+100% 生命恢复速度","defensiveElementalResistance":"20% 元素抗性"}]}]

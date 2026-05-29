@@ -1,0 +1,1 @@
+[{"x":1,"name":"무정한","equipment":"club,spear,sword,bow,roh,axe","properties":[{"offensivePhysicalModifier":"+35% 물리 데미지","skillProjectileSpeedModifier":"50% 발사체의 속도 증가"},{"characterOffensiveAbility":"+50 공격 능력","offensivePhysicalModifier":"+35% 물리 데미지"}],"levelRequirement":31}]

@@ -1,0 +1,1 @@
+[{"x":1,"name":"ルースレス","equipment":"club,spear,sword,bow,roh,axe","properties":[{"offensivePhysicalModifier":"+35% 物理ダメージ","skillProjectileSpeedModifier":"50% 発射速度増加"},{"characterOffensiveAbility":"+50 攻撃アビリティ","offensivePhysicalModifier":"+35% 物理ダメージ"}],"levelRequirement":31}]

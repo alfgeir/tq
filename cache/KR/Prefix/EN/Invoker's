@@ -1,0 +1,1 @@
+[{"x":1,"name":"인보커의","equipment":"staff,ring,amulet","properties":[{"petBonus":{"offensivePhysical":"47 물리 데미지","offensivePhysicalModifier":"+10% 물리 데미지"}},{"petBonus":{"offensiveLife":"40 바이탈리티 데미지","offensiveLifeModifier":"+10% 바이탈리티 데미지"}},{"petBonus":{"offensiveElemental":"40 엘리멘탈 데미지","offensiveElementalModifier":"+10% 엘리멘탈 데미지"}}],"levelRequirement":35}]

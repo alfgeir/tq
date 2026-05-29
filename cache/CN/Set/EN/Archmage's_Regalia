@@ -1,0 +1,1 @@
+[{"x":1,"name":"大法师特装","properties":[{"characterLife":"+180 生命","characterMana":"+180 法力"},{"characterLife":"+300 生命","characterMana":"+300 法力","defensiveElementalResistance":"15% 元素抗性"},{"characterLife":"+300 生命","characterMana":"+600 法力","characterManaRegenModifier":"+200% 法力恢复速度","defensiveElementalResistance":"15% 元素抗性","defensivePhysical":"15% 物理伤害抗性"}]}]

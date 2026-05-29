@@ -1,0 +1,1 @@
+[{"x":1,"name":"швидкості","equipment":"spear,staff,bow,armmelee,armmage,club,sword,axe","properties":[{"characterAttackSpeedModifier":"+8% швидкості атаки"}],"levelRequirement":8},{"x":1,"name":"швидкості","equipment":"spear,staff,bow,armmelee,armmage,club,sword,armsmage,axe,armsmelee","properties":[{"characterAttackSpeedModifier":"+25% швидкості атаки"}],"levelRequirement":25}]

@@ -1,0 +1,1 @@
+[{"x":1,"name":"Savage","equipment":"club,spear,sword,bow,roh,axe","properties":[{"offensivePhysicalModifier":"+45% Physical Damage","skillProjectileSpeedModifier":"65% Increase in Projectile Speed"},{"characterOffensiveAbility":"+65 Offensive Ability","offensivePhysicalModifier":"+45% Physical Damage"}],"levelRequirement":39}]

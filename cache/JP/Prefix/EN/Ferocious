@@ -1,0 +1,1 @@
+[{"x":1,"name":"フェロウシャス","equipment":"club,spear,sword,bow,roh,axe","properties":[{"offensivePhysicalModifier":"+50% 物理ダメージ","skillProjectileSpeedModifier":"75% 発射速度増加"},{"characterOffensiveAbility":"+75 攻撃アビリティ","offensivePhysicalModifier":"+50% 物理ダメージ"}],"levelRequirement":45}]

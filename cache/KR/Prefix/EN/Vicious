@@ -1,0 +1,1 @@
+[{"x":1,"name":"지독한","equipment":"club,spear,sword,bow,roh,axe","properties":[{"offensivePhysicalModifier":"+30% 물리 데미지","skillProjectileSpeedModifier":"45% 발사체의 속도 증가"},{"characterOffensiveAbility":"+45 공격 능력","offensivePhysicalModifier":"+30% 물리 데미지"}],"levelRequirement":21}]

@@ -1,0 +1,1 @@
+[{"x":1,"name":"прокалывающий, прокалывающая, прокалывающие, прокалывающее","equipment":"sword,spear,bow","properties":[{"offensivePierce":"20-28 ед. проникающего урона","offensiveSlowBleeding":"168 ед. урона от кровотечения в течении 3.0 секунд(ы)","offensiveSlowBleedingModifier":"+33% урона от кровотечения"}],"levelRequirement":35}]

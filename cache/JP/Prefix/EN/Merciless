@@ -1,0 +1,1 @@
+[{"x":1,"name":"マーシレス","equipment":"club,spear,sword,bow,roh,axe","properties":[{"offensivePhysicalModifier":"+40% 物理ダメージ","skillProjectileSpeedModifier":"55% 発射速度増加"},{"characterOffensiveAbility":"+55 攻撃アビリティ","offensivePhysicalModifier":"+40% 物理ダメージ"}],"levelRequirement":35}]

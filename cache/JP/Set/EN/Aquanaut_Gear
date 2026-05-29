@@ -1,0 +1,1 @@
+[{"x":3,"name":"アクアノート・ギア","properties":[{"characterMana":"+200 エナジー","characterManaRegen":"+5.0 毎秒回復するエナジー"},{"characterMana":"+400 エナジー","characterManaRegen":"+10.0 毎秒回復するエナジー","defensiveBleeding":"50% 出血耐性"},{"characterMana":"+600 エナジー","characterManaRegen":"+15.0 毎秒回復するエナジー","characterPhysToElementalRatio":"武器ダメージの100%がエレメンタルになる","defensiveBleeding":"50% 出血耐性"}]}]

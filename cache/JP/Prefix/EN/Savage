@@ -1,0 +1,1 @@
+[{"x":1,"name":"サヴィッジ","equipment":"club,spear,sword,bow,roh,axe","properties":[{"offensivePhysicalModifier":"+45% 物理ダメージ","skillProjectileSpeedModifier":"65% 発射速度増加"},{"characterOffensiveAbility":"+65 攻撃アビリティ","offensivePhysicalModifier":"+45% 物理ダメージ"}],"levelRequirement":39}]

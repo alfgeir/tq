@@ -1,0 +1,1 @@
+[{"x":3,"name":"潜泳者之装备","properties":[{"characterMana":"+200 法力","characterManaRegen":"每秒+5.0点法力恢复"},{"characterMana":"+400 法力","characterManaRegen":"每秒+10.0点法力恢复","defensiveBleeding":"50% 失血性伤害抗性"},{"characterMana":"+600 法力","characterManaRegen":"每秒+15.0点法力恢复","characterPhysToElementalRatio":"100% 武器伤害转变为元素伤害","defensiveBleeding":"50% 失血性伤害抗性"}]}]

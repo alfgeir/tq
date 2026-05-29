@@ -1,0 +1,1 @@
+[{"x":1,"name":"전통의 기장 ","properties":[{"characterLife":"+120 체력","characterMana":"+120 에너지"},{"characterLife":"+200 체력","characterMana":"+200 에너지","defensiveElementalResistance":"10% 엘리멘탈 저항"},{"characterLife":"+200 체력","characterMana":"+400 에너지","characterManaRegenModifier":"+100% 에너지 회복률","defensiveElementalResistance":"10% 엘리멘탈 저항","defensivePhysical":"10% 물리저항력"}]}]

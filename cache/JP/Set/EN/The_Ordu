@@ -1,0 +1,1 @@
+[{"x":1,"name":"ザ オルドゥ","properties":[{"characterAttackSpeedModifier":"+5% 攻撃速度","defensivePhysical":"2% 物理耐性","defensivePierce":"35% 刺突耐性","skillProjectileSpeedModifier":"25% 発射速度増加"},{"characterAttackSpeedModifier":"+10% 攻撃速度","defensivePhysical":"5% 物理耐性","defensivePierce":"35% 刺突耐性","offensivePercentCurrentLife":"8% 敵のヘルス減少","skillProjectileSpeedModifier":"75% 発射速度増加"}]}]

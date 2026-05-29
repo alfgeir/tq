@@ -1,0 +1,1 @@
+[{"x":1,"name":"회복의","equipment":"torsomelee,armmelee,headmelee,armmage,shield,headmage,legmage,torsomage,legmelee","properties":[{"characterLifeRegen":"+2.0 초당 체력 회복률 ","characterLifeRegenModifier":"+35% 체력 회복률 "}],"levelRequirement":3}]

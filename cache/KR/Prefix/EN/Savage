@@ -1,0 +1,1 @@
+[{"x":1,"name":"포악한","equipment":"club,spear,sword,bow,roh,axe","properties":[{"offensivePhysicalModifier":"+45% 물리 데미지","skillProjectileSpeedModifier":"65% 발사체의 속도 증가"},{"characterOffensiveAbility":"+65 공격 능력","offensivePhysicalModifier":"+45% 물리 데미지"}],"levelRequirement":39}]

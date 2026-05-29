@@ -1,0 +1,1 @@
+[{"x":1,"name":"アデプト リゲイリア","properties":[{"characterLife":"+120 ヘルス","characterMana":"+120 エナジー"},{"characterLife":"+200 ヘルス","characterMana":"+200 エナジー","defensiveElementalResistance":"10% エレメンタル耐性"},{"characterLife":"+200 ヘルス","characterMana":"+400 エナジー","characterManaRegenModifier":"+100% エナジー回復","defensiveElementalResistance":"10% エレメンタル耐性","defensivePhysical":"10% 物理耐性"}]}]

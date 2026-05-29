@@ -1,0 +1,1 @@
+[{"x":3,"name":"白亜の甲羅","properties":[{"characterLifeRegen":"+10.0 毎秒回復するヘルス"},{"characterLifeRegen":"+20.0 毎秒回復するヘルス","characterLifeRegenModifier":"+50% ヘルス回復"},{"characterLifeRegen":"+30.0 毎秒回復するヘルス","characterLifeRegenModifier":"+100% ヘルス回復","defensiveElementalResistance":"20% エレメンタル耐性"}]}]

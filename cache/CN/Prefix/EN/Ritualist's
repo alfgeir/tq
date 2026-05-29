@@ -1,0 +1,1 @@
+[{"x":1,"name":"祭司的","equipment":"staff,ring,amulet","properties":[{"petBonus":{"offensivePhysical":"70 物理伤害","offensivePhysicalModifier":"+12%物理伤害"}},{"petBonus":{"offensiveLife":"60 活力伤害","offensiveLifeModifier":"+12% 活力伤害"}},{"petBonus":{"offensiveElemental":"60 元素伤害","offensiveElementalModifier":"+12% 元素伤害"}}],"levelRequirement":42}]

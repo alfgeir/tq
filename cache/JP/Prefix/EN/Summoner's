@@ -1,0 +1,1 @@
+[{"x":1,"name":"サモナー","equipment":"staff,ring,amulet","properties":[{"petBonus":{"offensivePhysical":"32 物理ダメージ","offensivePhysicalModifier":"+10% 物理ダメージ"}},{"petBonus":{"offensiveLife":"27 生命力ダメージ","offensiveLifeModifier":"+10% 生命力ダメージ"}},{"petBonus":{"offensiveElemental":"27 エレメンタルダメージ","offensiveElementalModifier":"+10% エレメンタルダメージ"}}],"levelRequirement":28}]

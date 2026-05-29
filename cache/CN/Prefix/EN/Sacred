@@ -1,0 +1,1 @@
+[{"x":1,"name":"庄严的","equipment":"amulet,blackpearl.dbr,pythia'sclasp.dbr,crystal.dbr","properties":[{"augmentAllLevel":"+2 到所有技能"}],"levelRequirement":50},{"x":1,"name":"庄严的","equipment":"headmelee,headmage","properties":[{"characterDexterityModifier":"+10% 敏捷","characterIntelligenceModifier":"+10% 智力","characterStrengthModifier":"+10% 力量"}],"levelRequirement":25}]

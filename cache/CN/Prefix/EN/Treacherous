@@ -1,0 +1,1 @@
+[{"x":1,"name":"背叛的","equipment":"club,spear,sword,staff,bow,roh,axe","properties":[{"offensiveDisruption":"3.0 秒技能打断","offensivePercentCurrentLife":"5.0% 机率发动 15% 减少敌人生命值","skillProjectileSpeedModifier":"+30% 加快投射速度"},{"characterOffensiveAbility":"+30 点战斗能力","offensiveDisruption":"3.0 秒技能打断","offensivePercentCurrentLife":"5.0% 机率发动 15% 减少敌人生命值"}],"levelRequirement":11}]

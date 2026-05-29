@@ -1,0 +1,1 @@
+[{"x":1,"name":"残酷的","equipment":"club,spear,sword,bow,roh,axe","properties":[{"offensivePhysicalModifier":"+20%物理伤害","skillProjectileSpeedModifier":"+25% 加快投射速度"},{"characterOffensiveAbility":"+25 点战斗能力","offensivePhysicalModifier":"+20%物理伤害"}],"levelRequirement":11}]

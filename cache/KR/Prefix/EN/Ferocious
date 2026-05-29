@@ -1,0 +1,1 @@
+[{"x":1,"name":"흉포(凶暴)한","equipment":"club,spear,sword,bow,roh,axe","properties":[{"offensivePhysicalModifier":"+50% 물리 데미지","skillProjectileSpeedModifier":"75% 발사체의 속도 증가"},{"characterOffensiveAbility":"+75 공격 능력","offensivePhysicalModifier":"+50% 물리 데미지"}],"levelRequirement":45}]

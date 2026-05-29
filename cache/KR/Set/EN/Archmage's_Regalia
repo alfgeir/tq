@@ -1,0 +1,1 @@
+[{"x":1,"name":"대마법사의 기장 ","properties":[{"characterLife":"+180 체력","characterMana":"+180 에너지"},{"characterLife":"+300 체력","characterMana":"+300 에너지","defensiveElementalResistance":"15% 엘리멘탈 저항"},{"characterLife":"+300 체력","characterMana":"+600 에너지","characterManaRegenModifier":"+200% 에너지 회복률","defensiveElementalResistance":"15% 엘리멘탈 저항","defensivePhysical":"15% 물리저항력"}]}]

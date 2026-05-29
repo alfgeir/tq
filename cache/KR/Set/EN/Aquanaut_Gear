@@ -1,0 +1,1 @@
+[{"x":3,"name":"수중인 장비","properties":[{"characterMana":"+200 에너지","characterManaRegen":"+5.0 초당 에너지 회복률 "},{"characterMana":"+400 에너지","characterManaRegen":"+10.0 초당 에너지 회복률 ","defensiveBleeding":"50% 블리딩 저항"},{"characterMana":"+600 에너지","characterManaRegen":"+15.0 초당 에너지 회복률 ","characterPhysToElementalRatio":"무기 대미지의 100%가 자연력이 됩니다","defensiveBleeding":"50% 블리딩 저항"}]}]

@@ -1,0 +1,1 @@
+[{"x":1,"name":"内行人特装","properties":[{"characterLife":"+120 生命","characterMana":"+120 法力"},{"characterLife":"+200 生命","characterMana":"+200 法力","defensiveElementalResistance":"10% 元素抗性"},{"characterLife":"+200 生命","characterMana":"+400 法力","characterManaRegenModifier":"+100% 法力恢复速度","defensiveElementalResistance":"10% 元素抗性","defensivePhysical":"10% 物理伤害抗性"}]}]

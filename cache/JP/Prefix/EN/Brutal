@@ -1,0 +1,1 @@
+[{"x":1,"name":"ブルータル","equipment":"club,spear,sword,bow,roh,axe","properties":[{"offensivePhysicalModifier":"+25% 物理ダメージ","skillProjectileSpeedModifier":"35% 発射速度増加"},{"characterOffensiveAbility":"+35 攻撃アビリティ","offensivePhysicalModifier":"+25% 物理ダメージ"}],"levelRequirement":18}]

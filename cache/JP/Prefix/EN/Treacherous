@@ -1,0 +1,1 @@
+[{"x":1,"name":"トレシャラス","equipment":"club,spear,sword,staff,bow,roh,axe","properties":[{"offensiveDisruption":"3.0 秒間 スキル混乱","offensivePercentCurrentLife":"5.0% の確率で15% 敵のヘルス減少","skillProjectileSpeedModifier":"30% 発射速度増加"},{"characterOffensiveAbility":"+30 攻撃アビリティ","offensiveDisruption":"3.0 秒間 スキル混乱","offensivePercentCurrentLife":"5.0% の確率で15% 敵のヘルス減少"}],"levelRequirement":11}]

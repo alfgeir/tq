@@ -1,0 +1,1 @@
+[{"x":1,"name":"регенерации","equipment":"torsomelee,armmelee,headmelee,armmage,shield,headmage,legmage,torsomage,legmelee","properties":[{"characterLifeRegen":"+2.0 ед. жизни в секунду восстанавливается","characterLifeRegenModifier":"+35% восстановления жизни"}],"levelRequirement":3}]

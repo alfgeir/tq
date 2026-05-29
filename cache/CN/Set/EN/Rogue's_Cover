@@ -1,0 +1,1 @@
+[{"x":1,"name":"盗贼的掩护","properties":[{"characterLife":"+200 生命"},{"characterLife":"+300 生命","offensiveSlowBleedingModifier":"+50% 流血伤害","offensiveSlowPoisonModifier":"+50% 毒素伤害 "},{"characterDeflectProjectile":"+10% 机率躲避投射物","characterDodgePercent":"10% 机率避开攻击","characterLife":"+400 生命","offensiveSlowBleedingModifier":"+50% 流血伤害","offensiveSlowPoisonModifier":"+50% 毒素伤害 "}]}]

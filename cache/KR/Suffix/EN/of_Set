@@ -1,0 +1,1 @@
+[{"x":4,"name":"세트의","equipment":"spear,staff,bow,shield,club,sword,axe","properties":[{"characterOffensiveAbility":"+150 공격 능력","offensiveSlowBleeding":"200 블리딩 데미지 3.0 초간","offensiveSlowLightning":"200 감전 데미지 3.0 초간","offensiveSlowPoison":"200 포이즌 데미지 3.0 초간","offensiveSlowTotalSpeed":"15.0% 둔화 3.0 초간"}],"levelRequirement":60}]

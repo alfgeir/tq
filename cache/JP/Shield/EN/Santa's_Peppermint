@@ -1,0 +1,1 @@
+[{"classification":"エピック","levelRequirement":35,"name":"サンタ ペパーミント","properties":{"characterLife":"+500 ヘルス","characterLifeRegen":"+2.0 毎秒回復するヘルス","characterManaRegen":"+2.0 毎秒回復するエナジー","defensiveBlock":"39% の確率で 500 ダメージをブロック","defensiveBlockModifier":"+5% シールドブロック","defensiveCold":"60% 冷気耐性","offensivePhysical":"182 物理ダメージ"},"set":"サンタ ガーブ","r":36,"x":1,"loot":[]}]

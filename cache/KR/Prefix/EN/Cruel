@@ -1,0 +1,1 @@
+[{"x":1,"name":"잔인한","equipment":"club,spear,sword,bow,roh,axe","properties":[{"offensivePhysicalModifier":"+20% 물리 데미지","skillProjectileSpeedModifier":"25% 발사체의 속도 증가"},{"characterOffensiveAbility":"+25 공격 능력","offensivePhysicalModifier":"+20% 물리 데미지"}],"levelRequirement":11}]
