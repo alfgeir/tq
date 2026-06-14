@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Asul:b&text=%25');
+@import url('https://fonts.googleapis.com/css?family=Noto+Color+Emoji&text=🔖🔗🎨');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+SC|Noto+Sans+JP|Noto+Sans+KR');
+
+/*
+  % 25
+  + 2b
+  ~ 7e
+*/
+@font-face {
+  font-family:   A028;
+  src:           url('https://cdn.jsdelivr.net/gh/greyscalepress/font-specimens@master/fonts/encore_des_fontes_manu/A028/A028-Med.ttf');
+  unicode-range: U+0-24, U+26-2A, U+2C-7D, U+7F-10FFFF
+}
+@font-face {
+  font-family:   A028;
+  font-weight:   bold;
+  src:           url('https://cdn.jsdelivr.net/gh/greyscalepress/font-specimens@master/fonts/encore_des_fontes_manu/A028/A028-Ext.ttf');
+}
+
+body {
+  font: 18px/20px A028, Asul, Arial, 'Noto Sans SC', 'Noto Sans JP', 'Noto Sans KR', 'Noto Color Emoji';
+}
+
+.Normal,
+.Magical   { background:#cccccc80; }
+.Rare      { background:#64e26480; }
+.Epic      { background:#00a3ff80; }
+.Legendary { background:#ea0eff80; }
